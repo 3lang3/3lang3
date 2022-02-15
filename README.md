@@ -3,7 +3,7 @@
 人都有各自的月亮 🌕
 
 1. React移动端UI库 [react-vant](https://github.com/3lang3/react-vant)
-2. 基于Vite打造的文档工具 [Mdoc](https://github.com/3lang3/mdoc)
+2. 基于Vite打造的文档工具 [mdoc](https://github.com/3lang3/mdoc)
 3. 前端开发人员，积极的开源工作者
 4. wechat: HIJNTIYou
 
